@@ -49,7 +49,7 @@ end
 
 def for_iterator(number_of_times)
   for number_of_times 0..7 do 
-     return "Welcome to Flatiron School's Web Development Course!"
+     puts "Welcome to Flatiron School's Web Development Course!"
    end
  end
  end
