@@ -48,7 +48,7 @@ def until_iterator(number_of_times)
 end
 
 def for_iterator(number_of_times)
-  for 
+  for number_of_times == 0
   7.times
      {puts "Welcome to Flatiron School's Web Development Course!"}
    end
