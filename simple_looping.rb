@@ -49,7 +49,7 @@ end
 
 def for_iterator(number_of_times)
   for number_of_times 0..7
-    if number_of_times < 7
+    # if number_of_times < 7
       break
      puts "Welcome to Flatiron School's Web Development Course!"
    end
