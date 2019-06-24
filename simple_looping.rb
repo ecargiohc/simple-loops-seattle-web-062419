@@ -49,7 +49,7 @@ end
 
 def for_iterator(number_of_times)
   for number_of_times == 0
-  7.times
+    7.times
      {puts "Welcome to Flatiron School's Web Development Course!"}
    end
   # code your solution here using the "for" keyword
